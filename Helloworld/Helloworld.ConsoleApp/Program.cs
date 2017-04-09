@@ -9,7 +9,7 @@ namespace Helloworld.ConsoleApp
         {
             new ConsoleRunner().Run(() =>
             {
-                Console.WriteLine("");
+                Console.WriteLine(Messages.Helloworld);
             });
         }
     }
